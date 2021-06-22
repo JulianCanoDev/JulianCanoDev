@@ -1,4 +1,4 @@
-![AR/VR_Unity3D_Developer](https://user-images.githubusercontent.com/julian_unity.jpg)
+![AR/VR_Unity3D_Developer](https://i.imgur.com/5Qq0IJi.jpg)
 ## Welcome to my GitHub
 
 ### Hello! I'm Julian Cano a AR/VR Unity3D Developer.
