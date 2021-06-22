@@ -3,7 +3,7 @@
 
 ### Hello! I'm Julian Cano a AR/VR Unity3D Developer.
 
-### Portfolio:
+### Social Media:
 
 <a href="https://twitter.com/JulianCanoDev">
   <img align="left" alt="Julian Cano VR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
