@@ -1,16 +1,21 @@
-![AR/VR_Unity3D_Developer](https://i.imgur.com/5Qq0IJi.jpg)
-## Welcome to my GitHub
+# 🤖 Julian Cano | AI & XR DevOps Architect
 
-### Hello! I'm Julian Cano a AR/VR Unity3D Developer.
+Senior Developer and Technical Artist specializing in the convergence of immersive technologies and autonomous automation systems.
 
-### Social Media:
+### 🛠️ Core Tech Stack
+- **AI & Automation:** n8n, LangChain, Multi-agent Systems, RAG.
+- **XR Development:** Unity 6.3 LTS, OpenXR, Meta Quest SDK, VRIF[cite: 1].
+- **DevOps & Infra:** Docker, Dokploy, FastAPI, Self-hosted Digital Ecosystems[cite: 1].
+- **Languages & DB:** C# .NET, Python, PostgreSQL, Supabase[cite: 1].
 
-<a href="https://twitter.com/JulianCanoDev">
-  <img align="left" alt="Julian Cano VR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juliancanodev/">
-  <img align="left" alt="Julian Cano VR" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 🚀 Current Focus
+- **Architecting at Projechtech:** Leading the integration of autonomous agents into enterprise workflows[cite: 1].
+- **Spec-Driven Development (SDD):** Applying modular "vibe coding" methodologies for high-performance software[cite: 1].
+- **EduVerse 20:** Developing a suite of 20 educational VR experiences for Meta Quest[cite: 1].
 
-<br />
-<br />
+### 📊 Stats & Socials
+| [LinkedIn](https://www.linkedin.com/in/juliancanodev/) | [TikTok](https://www.tiktok.com/@julixr01) | [Portfolio](https://juliancanodev.artstation.com/) |
+| :--- | :--- | :--- |
+
+---
+*Professional Trajectory: Career evolved from technical artistry to AI orchestration, providing deep architectural insight for today’s autonomous systems.*[cite: 1]
